@@ -1,0 +1,6 @@
+{
+  "name": "PodEQ",
+  "description": "Advanced Bluetooth AirPods Equalizer, ANC & Transparency controls, sound presets, background audio FX, hearing test, and battery optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
